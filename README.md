@@ -40,6 +40,6 @@ Main features considered while developing in android studio are:
 ├── fragment         # Fragment classes
 ├── model             # Supporting data classes
 ├── network          # Network classes for communication with server via API.
-└── util                  # Utility functions and constants.
+└── util                  # Utility functions and constants
 
 
