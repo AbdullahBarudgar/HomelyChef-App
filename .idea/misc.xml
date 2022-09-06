@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Abdullah_Barudgar/Android_Projects/HomelyChef/app/src/main/res/font/poppins.xml" value="0.2578125" />
+        <entry key="..\:/Abdullah_Barudgar/Android_Projects/HomelyChef/app/src/main/res/font/poppins_light.xml" value="0.2578125" />
+        <entry key="..\:/Abdullah_Barudgar/Android_Projects/HomelyChef/app/src/main/res/font/poppins_medium.xml" value="0.2578125" />
+        <entry key="..\:/Abdullah_Barudgar/Android_Projects/HomelyChef/app/src/main/res/font/roboto.xml" value="0.2578125" />
+        <entry key="..\:/Abdullah_Barudgar/Android_Projects/HomelyChef/app/src/main/res/font/roboto_condensed_bold.xml" value="0.2578125" />
+        <entry key="..\:/Abdullah_Barudgar/Android_Projects/HomelyChef/app/src/main/res/layout-v21/activity_chef.xml" value="0.21927083333333333" />
+        <entry key="..\:/Abdullah_Barudgar/Android_Projects/HomelyChef/app/src/main/res/layout/activity_cart.xml" value="0.21927083333333333" />
+        <entry key="..\:/Abdullah_Barudgar/Android_Projects/HomelyChef/app/src/main/res/layout/activity_chef.xml" value="0.21927083333333333" />
+        <entry key="..\:/Abdullah_Barudgar/Android_Projects/HomelyChef/app/src/main/res/layout/activity_chef_description.xml" value="0.21927083333333333" />
+        <entry key="..\:/Abdullah_Barudgar/Android_Projects/HomelyChef/app/src/main/res/layout/activity_chef_description2.xml" value="0.21927083333333333" />
+        <entry key="..\:/Abdullah_Barudgar/Android_Projects/HomelyChef/app/src/main/res/layout/activity_dashboard.xml" value="0.21927083333333333" />
+        <entry key="..\:/Abdullah_Barudgar/Android_Projects/HomelyChef/app/src/main/res/layout/activity_forgot_password.xml" value="0.21927083333333333" />
+        <entry key="..\:/Abdullah_Barudgar/Android_Projects/HomelyChef/app/src/main/res/layout/activity_login.xml" value="0.21927083333333333" />
+        <entry key="..\:/Abdullah_Barudgar/Android_Projects/HomelyChef/app/src/main/res/layout/activity_register.xml" value="0.21927083333333333" />
+        <entry key="..\:/Abdullah_Barudgar/Android_Projects/HomelyChef/app/src/main/res/layout/activity_reset_password.xml" value="0.21927083333333333" />
+        <entry key="..\:/Abdullah_Barudgar/Android_Projects/HomelyChef/app/src/main/res/layout/activity_splash.xml" value="0.21927083333333333" />
+        <entry key="..\:/Abdullah_Barudgar/Android_Projects/HomelyChef/app/src/main/res/layout/cart_item_custom_row.xml" value="0.21927083333333333" />
+        <entry key="..\:/Abdullah_Barudgar/Android_Projects/HomelyChef/app/src/main/res/layout/chefs_custom_single_row.xml" value="0.21927083333333333" />
+        <entry key="..\:/Abdullah_Barudgar/Android_Projects/HomelyChef/app/src/main/res/layout/drawer_header.xml" value="0.21927083333333333" />
+        <entry key="..\:/Abdullah_Barudgar/Android_Projects/HomelyChef/app/src/main/res/layout/fragment_about__chefs.xml" value="0.21927083333333333" />
+        <entry key="..\:/Abdullah_Barudgar/Android_Projects/HomelyChef/app/src/main/res/layout/fragment_about_chefs.xml" value="0.20208333333333334" />
+        <entry key="..\:/Abdullah_Barudgar/Android_Projects/HomelyChef/app/src/main/res/layout/fragment_faq.xml" value="0.21927083333333333" />
+        <entry key="..\:/Abdullah_Barudgar/Android_Projects/HomelyChef/app/src/main/res/layout/fragment_favourites.xml" value="0.21927083333333333" />
+        <entry key="..\:/Abdullah_Barudgar/Android_Projects/HomelyChef/app/src/main/res/layout/fragment_home.xml" value="0.21927083333333333" />
+        <entry key="..\:/Abdullah_Barudgar/Android_Projects/HomelyChef/app/src/main/res/layout/fragment_order_history.xml" value="0.21927083333333333" />
+        <entry key="..\:/Abdullah_Barudgar/Android_Projects/HomelyChef/app/src/main/res/layout/fragment_profile.xml" value="0.21927083333333333" />
+        <entry key="..\:/Abdullah_Barudgar/Android_Projects/HomelyChef/app/src/main/res/layout/fragment_restaurant.xml" value="0.21927083333333333" />
+        <entry key="..\:/Abdullah_Barudgar/Android_Projects/HomelyChef/app/src/main/res/layout/history_res_item_custom_row.xml" value="0.21927083333333333" />
+        <entry key="..\:/Abdullah_Barudgar/Android_Projects/HomelyChef/app/src/main/res/layout/menu_custom_row.xml" value="0.21927083333333333" />
+        <entry key="..\:/Abdullah_Barudgar/Android_Projects/HomelyChef/app/src/main/res/layout/order_history_custom_row.xml" value="0.21927083333333333" />
+        <entry key="..\:/Abdullah_Barudgar/Android_Projects/HomelyChef/app/src/main/res/layout/order_placed_dialog.xml" value="0.21927083333333333" />
+        <entry key="..\:/Abdullah_Barudgar/Android_Projects/HomelyChef/app/src/main/res/layout/restaurants_custom_row.xml" value="0.21927083333333333" />
+        <entry key="..\:/Abdullah_Barudgar/Android_Projects/HomelyChef/app/src/main/res/layout/toolbar.xml" value="0.21927083333333333" />
+        <entry key="..\:/Abdullah_Barudgar/Android_Projects/HomelyChef/app/src/main/res/menu/chefs_menu.xml" value="0.21927083333333333" />
+        <entry key="..\:/Abdullah_Barudgar/Android_Projects/HomelyChef/app/src/main/res/menu/dashboard_menu.xml" value="0.21927083333333333" />
+        <entry key="..\:/Abdullah_Barudgar/Android_Projects/HomelyChef/app/src/main/res/menu/drawer_menu.xml" value="0.21927083333333333" />
+        <entry key="..\:/Abdullah_Barudgar/Android_Projects/HomelyChef/app/src/main/res/mipmap-anydpi-v26/food_runner_logo.xml" value="0.1" />
+        <entry key="..\:/Abdullah_Barudgar/Android_Projects/HomelyChef/app/src/main/res/mipmap-anydpi-v26/homely_chef_icon.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

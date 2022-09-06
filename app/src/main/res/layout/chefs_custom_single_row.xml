@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/cardChefs"
+    android:layout_width="match_parent"
+    android:layout_height="270dp"
+    android:layout_margin="5dp"
+    app:cardCornerRadius="6dp"
+    android:orientation="horizontal"
+    android:background="#ffffff">
+
+<LinearLayout
+    android:id="@+id/linearLayoutChef"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:weightSum="10">
+
+<ImageView
+    android:id="@+id/imgChefImage"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_weight="6"
+    android:layout_gravity="center_vertical"
+    android:layout_margin="8dp"
+    android:src="@drawable/male_chef_log"
+    android:scaleType="fitCenter"
+
+    />
+
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_weight="4"
+    android:layout_marginTop="20dp">
+m
+    <TextView
+    android:id="@+id/txtChefName"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_margin="2dp"
+    android:layout_weight="1.5"
+    android:padding="10dp"
+    android:text="Chef Name"
+    android:textAlignment="center"
+    android:textAllCaps="false"
+    android:textColor="#000000"
+    android:textSize="14sp"
+    android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/txtChefRestaurantName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtChefName"
+        android:layout_marginStart="2dp"
+        android:layout_marginTop="2dp"
+        android:layout_marginEnd="2dp"
+        android:layout_marginBottom="2dp"
+        android:padding="10dp"
+        android:text="Restaurant Name"
+        android:textAlignment="center"
+        android:textAllCaps="false"
+        android:textColor="#000000"
+        android:textSize="14sp"
+        android:textStyle="bold" />
+
+
+    <TextView
+        android:id="@+id/txtChefMobileNumber"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="2dp"
+        android:layout_below="@+id/txtChefRestaurantName"
+        android:padding="10dp"
+        android:text="Mobile Number"
+        android:textAlignment="center"
+        android:textAllCaps="false"
+        android:textColor="#000000"
+        android:textSize="14sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/txtChefAddress"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtChefMobileNumber"
+        android:text="Addresses"
+        android:textSize="14sp"
+        android:textColor="#000000"
+        android:layout_margin="2dp"
+        android:padding="10dp"
+        android:textAlignment="textStart"
+        android:textStyle="bold"
+        />
+
+
+
+</RelativeLayout>
+</LinearLayout>
+
+
+
+
+</androidx.cardview.widget.CardView>
