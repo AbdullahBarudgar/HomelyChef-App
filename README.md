@@ -1,72 +1,62 @@
-# HomelyChef_App
+# HomelyChef Android App
 
-Android Food App using language-( Kotlin , XML) , Tool - ( Android Studio ,Postman) , Library - ( Volley , Picasso ,Picasso Transformation , Room Persistence Library , GSON).
+### Promote Home Entrepreneurs
 
-The main objective of the app (HomelyChef) to encourage home-cooked food entrepreneurship. This app connects the home makers who love to cook, to eager consumers to who like healthy and tasty home cooked food. This app helps consumer to have their favorite homemade food at the touch of a phone. 
+## Overview
 
+The **HomelyChef Android App** is designed to promote home-cooked food entrepreneurship. It serves as a platform that connects home-based cooks with consumers looking for healthy and delicious homemade food. This app allows consumers to easily order their favorite homemade dishes via their smartphones, facilitating the growing trend of home-based food businesses.
 
-# Main features considered while developing in android studio are:
+## Objective
 
-•	Volley - Volley is an HTTP library that makes networking for Android apps easier and most importantly, faster.
+The main objective of the HomelyChef app is to provide high-quality home-cooked meals to individuals who value homemade food but lack the time to cook. It also aims to empower homemakers, particularly women, by offering them a platform to turn their culinary skills into a profitable business.
 
-•	Picasso - A powerful image downloading and caching library for Android.
+## Problem Statement
 
-•	Picasso Transformations - An Android transformation library providing a variety of image transformations for Picasso.
+There is a lack of a platform that connects home-based food entrepreneurs with consumers seeking nutritious home-cooked meals. Homemakers with culinary expertise often struggle to find a market for their food, limiting their ability to generate income. The HomelyChef app bridges this gap, enabling these entrepreneurs to reach a broader customer base while providing consumers with access to healthier food options.
 
-•	Room Persistence Library - The Room persistence library provides an abstraction layer over SQLite to allow for more robust database access while harnessing the full power of SQLite.
+## Features
 
-•	Gson - Gson is a Java library that can be used to convert Java Objects into their JSON representation and vice-versa.
+- **User Authentication**: Secure user login and registration.
+- **Menu Management**: Home chefs can create and manage their food offerings.
+- **Ordering System**: Users can browse, select, and order meals.
+- **Order Tracking**: Real-time order tracking and notifications.
+- **Customer Feedback**: Users can rate and review dishes.
 
-•	Material Components for Android - Modular and customizable Material Design UI components for Android
+## Technology Stack
 
+The HomelyChef Android App is built using modern technologies to ensure a smooth and efficient user experience. Below is an overview of the key components:
 
-# Required Libraries:     
+### 1. **Frontend Development**
 
-'com.google.android.material: material: 1.5.0’
+- **Kotlin & Java**: Used for Android development, ensuring robust performance and interoperability.
+- **XML**: For designing user interface layouts.
+- **Android Jetpack**: Includes components like LiveData, ViewModel, and Navigation to manage UI data and navigation effectively.
 
-'androidx.room: room-compiler: $room_version'
+### 2. **Backend Development**
 
-'org.jetbrains.kotlin: kotlin-stdlib-jdk7:$kotlin_version'
+- **Room Database**: A SQLite abstraction for local data storage, providing compile-time checks and background thread execution.
+- **Retrofit**: For handling RESTful API calls and converting them into Java objects.
 
-'androidx.appcompat: appcompat: 1.0.2’
+### 3. **Database**
 
-'androidx.core: core-ktx: 1.0.2’
+- **Room Database**: Efficient and type-safe local data storage, ideal for offline functionality.
+- **Room Persistence Library**: Provides an abstraction layer over SQLite for more robust database access while harnessing the full power of SQLite.
 
-'androidx.constraintlayout: constraintlayout: 1.1.3’
+### 4. **Third-Party Libraries**
 
-'com.android.support: design: 28.0.0’
+- **Volley**: An HTTP library that makes networking for Android apps easier and faster.
+- **Picasso**: A powerful image downloading and caching library for Android.
+- **Picasso Transformations**: Provides a variety of image transformations for Picasso.
+- **Gson**: A Java library used to convert Java Objects into their JSON representation and vice-versa.
+- **Glide**: For image loading and caching.
+- **Dagger-Hilt**: For dependency injection.
+- **Lottie**: For smooth animations.
+- **Material Components for Android**: Modular and customizable Material Design UI components for Android.
 
-'com.android.volley: volley: 1.1.1’
+## Contributing
 
-'com.squareup.picasso: picasso: 2.71828’
+Want to contribute to the project? Fork the repository and submit a pull request!
 
-'com.google.code.gson: gson: 2.8.5’
+## Acknowledgments
 
-'androidx.legacy: legacy-support-v4:1.0.0'
-
-'junit: junit: 4.12’
-
-'androidx.test.ext: junit: 1.1.0’
-
-'androidx.test.espresso: espresso-core: 3.1.1’
-
-'com.squareup.picasso: picasso: 2.8’
-
-
-# Root Package
-
-├── activity           # Activity Classes
-
-├── adapter           # Adapters for Recycler Views
-
-├── database         # Database classes for storing Favorites Restaurants locally.
-
-├── fragment         # Fragment classes
-
-├── model             # Supporting data classes
-
-├── network          # Network classes for communication with server via API.
-
-└── util                  # Utility functions and constants
-
-
+* [Abdullah Barudgar] - Developer and Maintainer
